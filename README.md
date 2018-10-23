@@ -16,4 +16,4 @@ Our objective is to translate gray-scale photographs into their colorized versio
 
 # Example
 
-![prediction_color](prediction_data/Mbappe_TIME.jpg)
+![prediction](prediction_data/Mbappe_TIME.jpg)
