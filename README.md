@@ -2,11 +2,7 @@
 
 Deep Learning Project, Fall 2018
 
-Mathilde Duverger 
-Sacha Izadi 
-Margaux Girard-Soppet
-Valentin Lapparov
-Alexandre Momeni
+Mathilde Duverger, Sacha Izadi, Margaux Girard-Soppet, Valentin Lapparov, Alexandre Momeni,
 
 Website: https://color-gan-x.herokuapp.com/home
 
