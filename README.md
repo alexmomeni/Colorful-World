@@ -16,4 +16,4 @@ Our objective is to translate gray-scale photographs into their colorized versio
 
 # Example
 
-#![Mbappe](example/Mbappe.png)
+![Mbappe](example/Mbappe.png)
